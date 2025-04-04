@@ -1,5 +1,5 @@
 github_repo_latest = "https://api.github.com/repos/kartFr/Auto-Animation-Reuploader/releases/latest"
-asset_delivery = "https://assetdelivery.roblox.com/v1/asset/?id="
+asset_delivery = "https://apis.roblox.com/asset-delivery-api/v1/assetId/"
 asset_info = "https://develop.roblox.com/v1/assets?assetIds="
 authenticated = "https://users.roblox.com/v1/users/authenticated"
 
